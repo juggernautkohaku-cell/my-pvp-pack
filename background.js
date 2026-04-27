@@ -1,7 +1,7 @@
 const URL_MAP = {
   "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/spritesheet-t.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/DEBUG/default.png",
-  "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp_pack/refs/heads/main/miniblox-default-icon.png",
+  "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/DEBUG/miniblox-default-icon.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
   "||miniblox.*textures/entity/chicken/chicken.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/entity/chicken.png",
   "||miniblox.*textures/entity/cow/cow.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/entity/cow.png",
