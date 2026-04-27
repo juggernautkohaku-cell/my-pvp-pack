@@ -1,21 +1,27 @@
+![image alt](https://github.com/juggernautkohaku-cell/my-pvp_pack/blob/d105b021024fd651ec3f7dab27e364bf524bd4f8/icon-pvp.png)
 ⚠️**Attention**
 
-Check the video on https://youtube.com/@SmoothDudeU-U to make sure you download the texture pack right.
+Check the video on https://www.youtube.com/@ZataLove_JP_Kohaku to make sure you download the texture pack right.
 
 ⭐ **Helps**
 
-I really wanna say thanks to heythereu, which helped me a lot in this journey. Without him this texture pack would have required x10 time i used
+I would like to express my sincere gratitude to SmoothDude for their cooperation in creating this texture pack.
+https://www.youtube.com/@SmoothDudeU-U
 
 💡 **Credits**
 
-Ores outline: SmoothDude6969
+Ores outline: ZataLove_JP_Kohaku
 
-Enchantment glint: Minecraft Rainbow Glint texture pack
+Wool outline: ZataLove_JP_Kohaku
 
-Custom background: MinecraftImages
+Block destruction animation: ZataLove_JP_Kohaku
+
+Sword texture: https://modrinth.com/resourcepack/dagger-swords/versions
 
 If you wanna DM me for issues or anything send to: 
 
-@smoothdudee / SmoothDude
+@zatalove_jp_kohaku / ZataLove_JP_Kohaku
 
--SmoothDude
+-ZataLove_JP_Kohaku
+
+💐**My deepest thanks to SmoothDude**
