@@ -1,4 +1,4 @@
-![image alt](https://github.com/juggernautkohaku-cell/my-pvp_pack/blob/d105b021024fd651ec3f7dab27e364bf524bd4f8/icon-pvp.png)
+![image alt](https://github.com/juggernautkohaku-cell/my-pvp-pack/blob/4b013f18c1b56a654918d3b7345c3fd682149934/icon-pvp.png)
 ⚠️**Attention**
 
 Check the video on https://www.youtube.com/@ZataLove_JP_Kohaku to make sure you download the texture pack right.
