@@ -1,7 +1,7 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/spritesheet-t.png",
-  "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/DEBUG/custom_background.png",
-  "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/DEBUG/Custom%20writing.png",
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp_pack/refs/heads/main/spritesheet-t.png",
+  "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp_pack/refs/heads/main/default.png",
+  "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp_pack/refs/heads/main/miniblox-default-icon.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
   "||miniblox.*textures/entity/chicken/chicken.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/entity/chicken.png",
   "||miniblox.*textures/entity/cow/cow.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/entity/cow.png",
@@ -11,7 +11,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/skeleton/skeleton.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/skeleton.png",
   "||miniblox.*textures/entity/slime/slime.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/slime.png",
   "||miniblox.*textures/entity/spider/spider.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/spider.png",
-  "||miniblox.*textures/entity/zombie/zombie.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/zombie.png",
+  "||miniblox.*textures/entity/zombie/zombie.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp_pack/refs/heads/main/entity/zombie.png",
   "||miniblox.*textures/entity/ghost/ghost.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/ghost.png",
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/zombie_cowman.png",
   "||miniblox.*textures/entity/snowman/snowman.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/snowman.png",
@@ -35,9 +35,9 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/iron_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_1.png",
   "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_2.png",
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_1.png",
-  "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_2.png",
-  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/DEBUG/enchanted_item_glint.png"
+  "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_2.png"
 };
+
 
 let rules = [];
 let idx = 1;
