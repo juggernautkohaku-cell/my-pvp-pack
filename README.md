@@ -16,7 +16,7 @@ Wool outline: ZataLove_JP_Kohaku
 
 Block destruction animation: ZataLove_JP_Kohaku
 
-Sword texture: https://modrinth.com/resourcepack/dagger-swords/versions
+Sword texture: ZataLove_JP_Kohaku
 
 If you wanna DM me for issues or anything send to: 
 
