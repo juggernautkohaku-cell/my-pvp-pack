@@ -9,8 +9,7 @@
   "background": {"service_worker": "background.js"},
   "icons": {
     "128": "its_starooo-icon.png
-"
-  },
+"},
   "permissions": [
    "declarativeNetRequestWithHostAccess"
   ],
