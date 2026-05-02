@@ -8,8 +8,8 @@
   "author": "ZataLove_JP_Kohaku, SmoothDude, joudaALT, Mystic",
   "background": {"service_worker": "background.js"},
   "icons": {
-    "128": "its_starooo-icon.png
-"},
+    "128": "its_starooo-icon.png"
+  },
   "permissions": [
    "declarativeNetRequestWithHostAccess"
   ],
