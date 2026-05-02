@@ -1,4 +1,4 @@
-![image alt](https://github.com/zatalovejp-glitch/for-its_starooo/blob/bc100d6a41989f4b1134f9ae6799578dfdf92915/its_starooo-icon.png)
+![image alt](https://github.com/zatalovejp-glitch/for-its_starooo/blob/5ab6a169034c46232fe7c4906952ae359409f329/icon.png)
 ⚠️**Attention**
 
 Check the video on https://www.youtube.com/@ZataLove_JP_Kohaku to make sure you download the texture pack right.
