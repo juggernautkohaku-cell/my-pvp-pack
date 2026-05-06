@@ -32,10 +32,10 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/infernium_layer_2.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/infernium_layer_2_me.png",
   "||miniblox.*textures/models/armor/gold_layer_1.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/gold_layer_1.png",
   "||miniblox.*textures/models/armor/gold_layer_2.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/gold_layer_2.png",
-  "||miniblox.*textures/models/armor/iron_layer_1.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/iron_layer_1_me.png",
-  "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/iron_layer_2_me.png",
-  "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/leather_layer_1_me.png",
-  "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/leather_layer_2_me.png"
+  "||miniblox.*textures/models/armor/iron_layer_1.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/iron_layer_1.png",
+  "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/iron_layer_2.png",
+  "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/leather_layer_1.png",
+  "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/zatalovejp-glitch/for-its_starooo/refs/heads/main/armor/leather_layer_2.png"
 };
 
 
